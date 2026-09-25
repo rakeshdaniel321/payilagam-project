@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Projects & Development Journey</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  </head>
+  <body>
+    <h1>My Projects & Development Journey Payilagam</h1>
+    <p id="description">
+      Welcome to my own practical experience website where I showcase my
+      projects and share insights from my project
+    </p>
+    <main class="projects-section">
+      <div class="section-header">
+        <span class="section-label">MY WORK</span>
+        <h1>Featured Projects</h1>
+        <p>A collection of projects built with modern web technologies.</p>
+      </div>
+
+      <!-- Loading -->
+      <div id="loader" class="loader-wrapper">
+        <div class="loader"></div>
+        <span>Loading projects...</span>
+      </div>
+
+      <!-- Cards -->
+      <div id="cards" class="cards-container"></div>
+    </main>
+  </body>
+  <script src="app.js"></script>
+</html>
