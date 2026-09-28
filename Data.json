@@ -28,6 +28,12 @@
         "title": "Type Speed Calculation",
         "description": "A simple Typing Speed Test application that html ,css and js.",
         "url": "https://typing-speed-calculations.vercel.app/"
+    },
+    {
+       "id": 6,
+        "title": " React Basic Project",
+        "description": "A simple React basic application. hooks ,props, react router dom tailwind css and redux toolkit",
+        "url": "https://basic-react-project-vert.vercel.app/"
     }
    
 ]
