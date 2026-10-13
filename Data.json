@@ -32,8 +32,14 @@
     {
        "id": 6,
         "title": " React Basic Project",
-        "description": "A simple React basic application. hooks ,props, react router dom tailwind css and redux toolkit",
+        "description": "A simple React basic application. hooks ,props, react router dom tailwind css.",
         "url": "https://basic-react-project-vert.vercel.app/"
+    },
+     {
+       "id": 7,
+        "title": "React E-Commerce Web Application",
+        "description": "uilt a responsive e-commerce app using React.js, React Router DOM, Redux Toolkit,  Hooks, and Props. Implemented product listing, product details, add-to-cart, cart management, and total price calculation with global state management.",
+        "url": "https://react-basic-ecommerce-olive.vercel.app/"
     }
    
 ]
